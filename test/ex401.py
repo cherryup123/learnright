@@ -1,7 +1,7 @@
-import stuff
+import mysql1
 
 
 
 
-stuff.apple()
-print stuff.tagerine
+mysql1.apple()
+print mysql1.tagerine
